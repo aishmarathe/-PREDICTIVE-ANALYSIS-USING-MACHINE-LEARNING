@@ -5,7 +5,7 @@
 * DOMAIN: DATA ANALYTICS
 * DURATION: 6 WEEKS
 * MENTOR: NEELA SANTOSH
-Sure! Here's a **simple and clean GitHub README** for your **Animal Health Prediction** project using the **K-Nearest Neighbors (KNN)** model:
+
 
 ---
 
